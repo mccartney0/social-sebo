@@ -1,0 +1,19 @@
+{
+    "name": "gunna/social-sebo",
+    "description": "",
+    "authors": [
+        {
+            "name": "SatellaSoft",
+            "email": "satellasoft@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0",
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
