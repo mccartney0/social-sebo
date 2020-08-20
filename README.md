@@ -1,6 +1,9 @@
-# social-sebo
+# Social Sebo
 
-## Projeto criado no Bootcamp Academy Satella 1.0 - 2020
+## Projeto criado no Bootcamp Academy SatellaSoft 1.0 - 2020
+
+<img align="left" src="https://satellasoft.com/img/logo/satellasoft-gradient.svg" width="300px" />
+<br><br><br><br>
 Utilizando as seguintes tecnologias, linguagens e frameworks:
 
 * HTML 5
